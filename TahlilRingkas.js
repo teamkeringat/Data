@@ -4,7 +4,7 @@
 window.KITAB = window.KITAB || {};
 window.KITAB["Tahlil Ringkas"] = {
   sebutan: "Bagian",
-  catatan: "Susunan bacaan tahlil ringkas dari aplikasi Yasin & Tahlil.",
+  catatan: "Susunan bacaan tahlil ringkas dari aplikasi Ngelingan.",
   bab: [
     {
       judul: "Tahlil Ringkas",
