@@ -1,8 +1,8 @@
-/* ISI KITAB: Tahlil Majlis
+/* ISI KONTEN: Tahlil Majlis
    Unggah file ini ke: https://teamkeringat.github.io/Data/TahlilMajlis.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
-window.KITAB = window.KITAB || {};
-window.KITAB["Tahlil Majlis"] = {
+window.KONTEN = window.KONTEN || {};
+window.KONTEN["Tahlil Majlis"] = {
   sebutan: "Bagian",
   catatan: "Susunan bacaan Hadiah & Tahlil di aplikasi Ngelingan",
   bab: [
