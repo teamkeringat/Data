@@ -1,8 +1,8 @@
-/* ISI KITAB: Tahlil Ringkas
+/* ISI KONTEN: Tahlil Ringkas
    Unggah file ini ke: https://teamkeringat.github.io/Data/TahlilRingkas.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
-window.KITAB = window.KITAB || {};
-window.KITAB["Tahlil Ringkas"] = {
+window.KONTEN = window.KONTEN || {};
+window.KONTEN["Tahlil Ringkas"] = {
   sebutan: "Bagian",
   catatan: "Susunan bacaan Hadiah & Tahlil di aplikasi Ngelingan.",
   bab: [
