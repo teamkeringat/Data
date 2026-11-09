@@ -1,7 +1,7 @@
-/* ISI KITAB: Tahlil Lengkap
+/* ISI KONTEN: Tahlil Lengkap
    Unggah file ini ke: https://teamkeringat.github.io/Data/TahlilLengkap.js */
-window.KITAB = window.KITAB || {};
-window.KITAB["Tahlil Lengkap"] = {
+window.KONTEN = window.KONTEN || {};
+window.KONTEN["Tahlil Lengkap"] = {
   sebutan: "Bagian",
   catatan: "Susunan bacaan Hadiah & Tahlil di aplikasi Ngelingan",
   bab: [
