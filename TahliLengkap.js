@@ -3,7 +3,7 @@
 window.KITAB = window.KITAB || {};
 window.KITAB["Tahlil Lengkap"] = {
   sebutan: "Bagian",
-  catatan: "Susunan bacaan Hadiah & Tahlil dari aplikasi Ngelingan",
+  catatan: "Susunan bacaan Hadiah & Tahlil di aplikasi Ngelingan",
   bab: [
     {
       judul: "Tahlil Lengkap",
