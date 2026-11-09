@@ -1,8 +1,8 @@
-/* ISI KITAB: Doa Tahlil
+/* ISI KONTEN: Doa Tahlil
    Unggah file ini ke: https://teamkeringat.github.io/Data/DoaTahlil.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
-window.KITAB = window.KITAB || {};
-window.KITAB["Doa Tahlil"] = {
+window.KONTEN = window.KONTEN || {};
+window.KONTEN["Doa Tahlil"] = {
   sebutan: "Doa",
   catatan: "Doa tahlil lengkap versi singkat, di Aplikasi NGELINGAN.",
   bab: [
